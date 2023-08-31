@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Restrepo</h1>
-<h3 align="center">Desarrollador Front End apasionado por la tecnologia</h3>
+<h3 align="center">Desarrollador Front End apasionado por la programacion y la tecnologia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
