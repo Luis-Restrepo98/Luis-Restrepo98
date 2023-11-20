@@ -4,7 +4,7 @@
 <h5 align="left">💡 Siempre en busca de nuevos desafíos y aprendizaje constante.</h5>
 
 <h3 align="left">Conectate conmigo:</h3>
-<p align="left">📧 luisrestrepo555@hotmail.com , 👔 https://www.linkedin.com/in/luis-restrepo-b35194289/, 📷 https://www.instagram.com/lucho_restrepo_/?hl=es
+<p align="left">const correo = 📧 luisrestrepo555@hotmail.com , 👔 https://www.linkedin.com/in/luis-restrepo-b35194289/, 📷 https://www.instagram.com/lucho_restrepo_/?hl=es
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
