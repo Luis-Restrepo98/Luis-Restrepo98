@@ -5,6 +5,7 @@
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left"> 📧 luisrestrepo555@hotmail.com , 👔 https://www.linkedin.com/in/luis-restrepo-b35194289/, 📷 https://www.instagram.com/lucho_restrepo_/?hl=es
+  <img src="💬" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/"
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
