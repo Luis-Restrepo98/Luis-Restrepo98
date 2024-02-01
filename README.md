@@ -5,7 +5,7 @@
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left"> 📧 luisrestrepo555@hotmail.com , 👔 https://www.linkedin.com/in/luis-restrepo-b35194289/, 📷 https://www.instagram.com/lucho_restrepo_/?hl=es
-  <img src="💬" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/"
+  <img src="https://www.flaticon.com/edge/redirect?url=aHR0cHM6Ly9hZG9iZS5wcmYuaG4vY2xpY2svY2FtcmVmOjEwMTFscmNLSy9jcmVhdGl2ZXJlZjoxMDExbDkwNzE3L3B1YnJlZjpHQTEuMi43MDk3MzA4MDMuMTcwNjc0ODQ0NS9kZXN0aW5hdGlvbjpodHRwcyUzQSUyRiUyRnN0b2NrLmFkb2JlLmNvbSUyRmltYWdlcyUyRmlkJTJGMTk1MDc1OTQ5JTNGayUzRGxldHRlciUyNTIwaWNvbg==" alt="html5" width="40" height="40"/> </a> <a href="luisrestrepo555@hotmail.com"
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
