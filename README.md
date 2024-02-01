@@ -10,7 +10,10 @@
 
 <a href="https://www.instagram.com/lucho_restrepo_/?hl=es" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="" width="40" height="40"/> </a>
 
-<a href="luisrestrepo555@hotmail.com" target="_blank" rel="noreferrer"> <img src="https://static6.depositphotos.com/1014014/641/i/450/depositphotos_6418213-stock-photo-envelope-email-sign-isolated-on.jpg" alt="" width="40" height="40"/> </a>
+<img src="https://static6.depositphotos.com/1014014/641/i/450/depositphotos_6418213-stock-photo-envelope-email-sign-isolated-on.jpg" alt="" width="40" height="40"/> luisrestrepo555@hotmail.com
+
+<a href="https://www.linkedin.com/in/luis-restrepo-b35194289/" target="_blank" rel="noreferrer"> <img src="http://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" alt="" width="40" height="40"/> </a>
+
 
 
 <h3 align="left">Idiomas y herramientas:</h3>
