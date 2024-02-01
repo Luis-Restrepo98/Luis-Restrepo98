@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Luis Restrepo, es un placer conocerte</h1>
 <h3 align="center">Desarrollador Front End apasionado por la programacion y la tecnologia</h3>
-<h5 align="left">🌱 Actualmente estoy aprendiendo desarrollo Frontend con HTML, CSS, SASS, Javascript y React.</h5>
+<h5 align="left">🌱 Actualmente soy desarrollador Front-End con HTML, CSS, SASS, Javascript y React etc.</h5>
 <h5 align="left">💡 Siempre en busca de nuevos desafíos y aprendizaje constante.</h5>
 
 <h3 align="left">Conectate conmigo:</h3>
